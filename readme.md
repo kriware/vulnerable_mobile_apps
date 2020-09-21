@@ -1,15 +1,11 @@
 # Vulnerable Android Apps
 
-sieve.apk => `https://labs.f-secure.com/tools/drozer/`
+Crackmes OWASP/ &#8594; `https://github.com/OWASP/owasp-mstg/tree/master/Crackmes`
 
-EVABSv4.apk => `https://github.com/abhi-r3v0/EVABS`
-
-Crackmes/ => `https://github.com/OWASP/owasp-mstg/tree/master/Crackmes`
-
-DVHMA/ => `https://github.com/logicalhacking/DVHMA`
+DVHMA/ &#8594; `https://github.com/logicalhacking/DVHMA`
     Hybrid (Cordova)
 
-InsecureBankv2 => `https://github.com/dineshshetty/Android-InsecureBankv2`
+InsecureBankv2/ &#8594; `https://github.com/dineshshetty/Android-InsecureBankv2`
     If you are too impatient to use the application or read the usage guide then follow these steps:
 
     Download and install latest apk file
@@ -20,7 +16,18 @@ InsecureBankv2 => `https://github.com/dineshshetty/Android-InsecureBankv2`
 
     Use the credentials dinesh/Dinesh@123$ or jack/Jack@123$ and start using the application
 
-pivaa.apk => `https://github.com/htbridge/pivaa`
+sieve.apk &#8594; `https://labs.f-secure.com/tools/drozer/`
 
-InjureAdnroid => `https://github.com/B3nac/InjuredAndroid`
-Slides :  `https://docs.google.com/presentation/d/15bi5pndttfCzMEMw8GT2oCHCJvHx_a8YszkkSMtp_jE/mobilepresent#slide=id.p11`
+diva-beta.apk &#8594; `https://payatu.com/damn-insecure-and-vulnerable-app`
+
+EVABSv4.apk &#8594; `https://github.com/abhi-r3v0/EVABS`
+
+pivaa.apk &#8594; `https://github.com/htbridge/pivaa`
+
+InjureAndroid &#8594; `https://github.com/B3nac/InjuredAndroid` &#8594; Slides :  `https://docs.google.com/presentation/d/15bi5pndttfCzMEMw8GT2oCHCJvHx_a8YszkkSMtp_jE/mobilepresent#slide=id.p11` &#8594; Youtube: `https://www.youtube.com/watch?v=AqVMfZAboCg`
+
+Frida-Demo &#8594; `https://github.com/t0thkr1s/frida/releases` &#8594; Lab: `https://medium.com/infosec-adventures/introduction-to-frida-5a3f51595ca1`
+
+FridaLab &#8594; `https://rossmarks.uk/blog/fridalab/` &#8594; writeup: `https://www.shielder.it/blog/fridalab-writeup/`
+
+Oversecured &#8594; `https://github.com/oversecured/ovaa`
